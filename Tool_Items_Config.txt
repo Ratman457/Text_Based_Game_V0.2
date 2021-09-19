@@ -1,0 +1,5 @@
+Backpack
+Horse
+Cart
+Torch
+Tent

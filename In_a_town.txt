@@ -1,0 +1,8 @@
+What do you want to do while you are here?.
+    (1) I want to know more about where I can go.
+    (2) I would like to travel somewhere else.
+    (3) I would like to sleep.
+    (4) What do I have in my inventory?
+    (5) I would like to look at the stores.
+    (9) Status.
+    (0) No

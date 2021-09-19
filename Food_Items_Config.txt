@@ -1,0 +1,50 @@
+egg
+bread
+wheat
+flour
+milk
+cheese
+venison
+apple
+peach
+ham hock
+pear
+nuts
+turnip
+radish
+squash
+fish
+tackle
+net
+potion base
+onion
+frog
+chicken
+yam
+lizard
+tree bark
+potato
+barley
+rye
+celery
+butter
+pineapple
+travel cake
+pemmican
+bannock
+brussels sprouts
+berries
+partridge
+duck
+pork
+veal
+Pie
+Steak
+Burger
+Pasta
+Bacon
+Cake
+Dragon fruit
+Brownie
+Sweetroll
+Honey
