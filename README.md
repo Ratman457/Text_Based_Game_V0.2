@@ -1,3 +1,7 @@
+This whole thing needs a rewrite its a gosh darn mess. Im learning pygame now so next version is goin to have 'graphics', pixelart if your good.
+
+
+
 # Text_Based_Game_V0.2
 (I named this repository badly)
 Store Update!
